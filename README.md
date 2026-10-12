@@ -3,8 +3,6 @@
 Predicts how many goals a team scores in a Premier League match, using Poisson regression (scikit-learn)
 trained on five seasons of match results.
 
-> The repository name mentions the Champions League, but the data and models cover the **Premier League only**.
-
 ## What it does
 
 Given a fixture, it returns the **expected number of goals** for one team (a decimal like `2.83`, not a
